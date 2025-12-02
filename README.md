@@ -1,20 +1,20 @@
-# Sayı Tahmin Oyunu CLI
+# Number Guessing Game CLI
 
-Node.js kullanarak terminalde çalışan basit bir sayı tahmin oyunudur.
+A simple number guessing game that runs in the terminal using Node.js.
 
-**Özellikler**
+**Features**
 
--   Tahmin edilecek sayı aralığı 1-100'dür.
--   Başlangıçta zorluk seviyesi seçebilirsiniz ve bu sizin kaç tahmin hakkına sahip olacağınızı belirler.
--   Tahmin yaptıktan sonra yukarı veya aşağı diye yönlendirmeler alırsınız.
+-   The number range to be guessed is 1-100.
+-   You can select a difficulty level at the start, which determines the number of guesses you have.
+-   You receive hints (Too high or Too low) after making a guess.
 
-**Kurulum ve Kullanım**
+**Installation and Usage**
 
-1. Node.js bilgisayarınızda kurulu olmalıdır.
-2. **Klonlama:** git clone git@github.com:miracsucu4417/number-guessing-game.git
-3. **Çalıştırma:** node guess_number.js
+1. Node.js must be installed on your computer.
+2. **Cloning:** git clone git@github.com:miracsucu4417/number-guessing-game.git
+3. **Running:** node guess_number.js
 
-**Teknolojiler**
+**Technologies**
 
 -   JavaScript (ES6+)
--   Node.js (readline Modülü)
+-   Node.js (readline Module)
