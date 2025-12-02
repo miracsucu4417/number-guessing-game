@@ -2,6 +2,8 @@
 
 A simple number guessing game that runs in the terminal using Node.js.
 
+This is a roadmap.sh project. Link: https://roadmap.sh/projects/number-guessing-game
+
 **Features**
 
 -   The number range to be guessed is 1-100.
